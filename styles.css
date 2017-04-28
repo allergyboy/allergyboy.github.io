@@ -22,6 +22,7 @@
 
 .header {
 	background-image: url("landscape.jpg");
+	background-color: DarkSlateGray;
 	background-repeat: no-repeat;
 	background-attachment: fixed;
 	background-size: cover;
